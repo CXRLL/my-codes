@@ -1,2 +1,2 @@
-# my-codes
-its my codes
+# codes
+This is my public codes
